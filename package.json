@@ -1,0 +1,14 @@
+{
+  "name": "hapi-api",
+  "version": "1.0.0",
+  "description": "hapi api assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi-api"
+  ],
+  "author": "Terry Paugh",
+  "license": "MIT"
+}
